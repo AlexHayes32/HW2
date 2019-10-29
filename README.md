@@ -1,6 +1,6 @@
 # ChemE 375 HW2
 
-## Problem 1 (20 points)
+## Problem 1 (5 points)
 
 Solve the following systems of linear algebraic equations using Matrix calculations
 
@@ -12,7 +12,7 @@ Solve the following systems of linear algebraic equations using Matrix calculati
 <img src="https://latex.codecogs.com/gif.latex?4x_1&space;&plus;&space;4x_3&space;&plus;&space;10x_4&space;&plus;&space;x_5&space;=&space;20" title="4x_1 + 4x_3 + 10x_4 + x_5 = 20" />
 <img src="https://latex.codecogs.com/gif.latex?2x_1&space;&plus;&space;5x_2&space;&plus;&space;x_3&space;&plus;&space;3x_4&space;&plus;&space;14x_5&space;=&space;92" title="2x_1 + 5x_2 + x_3 + 3x_4 + 14x_5 = 92" />
 
-## Problem 2 (20 points)
+## Problem 2 (5 points)
 
 Determine **one** solution for x and y to the following equations (there are 4 possible solutions).  *(You may want to graph the equations to see where the equations intersect and find a good guess value for solver. If you do make a plot, note that for the first equation you can only solve for y for x values between -0.7 and 0.7.  For the second equation you can only solve for y with x values between -1 and 3.  Also remember that when solving y2=x for y, the solution is y = ±√𝑥.)*
 
@@ -20,7 +20,7 @@ Determine **one** solution for x and y to the following equations (there are 4 p
 <img src="https://latex.codecogs.com/gif.latex?(0.5x&space;-&space;0.5)^2&space;&plus;&space;2(y-0.25)^2=1" title="(0.5x - 0.5)^2 + 2(y-0.25)^2=1" />
 
 
-## Problem 3 (20 points)
+## Problem 3 (5 points)
 
 The Redlich/Kwong equation of state is
 
@@ -35,7 +35,7 @@ where T is the temperature, V is the molar volume, R is the universal gas consta
 * IF YOU ARE STUCK ask a friend, the TA OR the instructor!  Don’t spent so much time feeling lost that you become discouraged.
 * You should obtain something around 28637 cm3/mol for the vapor volume and 82.477 cm3/mol for the liquid volume. The middle root (not required but for you information) is in between.
 
-## Problem 4 (20 points)
+## Problem 4 (5 points)
 
 Imagine mixing liquid benzene (species 1) and toluene (species 2) together in an initially empty container. At equilibrium, some of the liquid from both species will evaporate into the vapor phase and some will be left liquid phase for certain temperatures and pressures. For the specific example mentioned above, Raoult’s law gives the following two expressions describing the equilibrium state:
 
