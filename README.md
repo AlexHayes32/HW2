@@ -4,11 +4,11 @@
 
 Solve the following systems of linear algebraic equations using Matrix calculations
 
-*Hint*: Remember to click and hold down <ctlr>+<shift>+<enter> when applying matrix math formulas:
+*Hint*: Remember to click and hold down ctlr+shift+enter when applying matrix math formulas:
 
 <img src="https://latex.codecogs.com/gif.latex?11x_1&space;&plus;&space;3x_2&space;&plus;&space;x_4&space;&plus;&space;2x_5&space;=&space;45" title="11x_1 + 3x_2 + x_4 + 2x_5 = 45" />
 <img src="https://latex.codecogs.com/gif.latex?4x_2&space;&plus;&space;2x_3&space;&plus;&space;x_5&space;=&space;30" title="4x_2 + 2x_3 + x_5 = 30" />
-<img src="https://latex.codecogs.com/gif.latex?3x_1&space;&plus;&space;2x_2&space;&plus;&space;7x_3&space;&plus;&space;x_1&space;=&space;15" title="3x_1 + 2x_2 + 7x_3 + x_4 = 15" />
+<img src="https://latex.codecogs.com/gif.latex?3x_1&space;&plus;&space;2x_2&space;&plus;&space;7x_3&space;&plus;&space;x_4&space;=&space;15" title="3x_1 + 2x_2 + 7x_3 + x_4 = 15" />
 <img src="https://latex.codecogs.com/gif.latex?4x_1&space;&plus;&space;4x_3&space;&plus;&space;10x_4&space;&plus;&space;x_5&space;=&space;20" title="4x_1 + 4x_3 + 10x_4 + x_5 = 20" />
 <img src="https://latex.codecogs.com/gif.latex?2x_1&space;&plus;&space;5x_2&space;&plus;&space;x_3&space;&plus;&space;3x_4&space;&plus;&space;14x_5&space;=&space;92" title="2x_1 + 5x_2 + x_3 + 3x_4 + 14x_5 = 92" />
 
